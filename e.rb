@@ -1,5 +1,7 @@
 require 'mechanize'
 require 'nokogiri'
+require 'pp'
+require 'json'
 require_relative 'show'
 
 f = File.open("wednesday.html")
@@ -30,17 +32,31 @@ link_rows.each do |row|
 			artist_page = agent.get(link)
 			
 			if artist_page.search(".one-third.last > p > iframe") != nil
-				media << artist_page.search(".one-third.last > p > iframe").to_a
+				#html-ize the iframes
+				iframes = artist_page.search(".one-third.last > p > iframe").to_a
+				iframes.each do |x|
+					media << x.to_html
+				end
+
+				# media << artist_page.search(".one-third.last > p > iframe").to_a
+			
 			end
 		end
 		# puts "#{time} - #{artist} - #{venue} - #{link}"
 		
-		show = Show.new(artist, venue, time, media)
+		show = Show.new(artist, venue, time, media).to_hash
 
 		shows << show
 	end
 end
 
-shows.each do |x|
-	puts x.media[0]
+open('wednesday.json', 'a') do |file|
+	shows.each do |show|
+		show.to_json
+		file << show
+	end
 end
+
+# shows.each do |x|
+# 	pp x
+# end
