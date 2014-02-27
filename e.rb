@@ -1,7 +1,7 @@
 require 'mechanize'
 require 'nokogiri'
 require 'pp'
-require 'json'
+require 'oj'
 require_relative 'show'
 
 f = File.open("wednesday.html")
@@ -52,8 +52,8 @@ end
 
 open('wednesday.json', 'a') do |file|
 	shows.each do |show|
-		show.to_json
-		file << show
+		
+		file << Oj.dump(show)
 	end
 end
 
