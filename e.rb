@@ -4,7 +4,7 @@ require 'pp'
 require 'oj'
 require_relative 'show'
 
-f = File.open("wednesday.html")
+f = File.open("sunday.html")
 doc = Nokogiri::HTML(f)
 f.close
 
@@ -55,16 +55,16 @@ json_array = shows.map{|s| Oj.dump(s, mode: :compat)}
 
 json_array = json_array.map{ |s| JSON[s]}.to_json
 
-open('wednesday.json', 'a') do |file|
+open('sunday.json', 'a') do |file|
 	file << Oj.dump(JSON[json_array])
 end
 
 
-# open('wednesday.json', 'a') do |file|
+# open('sunday.json', 'a') do |file|
 # 	file << json_array
 # end
 
-# open('wednesday.json', 'a') do |file|
+# open('sunday.json', 'a') do |file|
 # 	shows.each do |show|
 		
 # 		file << Oj.dump(show)

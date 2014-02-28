@@ -27,8 +27,8 @@ var saturday = [
         time: "2:00pm–2:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/4238779&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/R7sTE_puZfo?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/xmX9MKrKK7w?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/R7sTE_puZfo?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/xmX9MKrKK7w?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -38,9 +38,9 @@ var saturday = [
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/40782647&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"http://bandcamp.com/EmbeddedPlayer/album=2722166935/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=none/transparent=true/\" seamless><a href=\"http://mindripsboise.bandcamp.com/album/three-live-shows\">Three Live Shows by Mindrips</a></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/_lKmq28ViiA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/2yu1wELGgz8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Gw2K_wDdC20?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/_lKmq28ViiA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/2yu1wELGgz8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Gw2K_wDdC20?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -49,7 +49,7 @@ var saturday = [
         time: "2:00pm–2:40pm",
         media: [
             "<iframe width=\"100%\" height=\"312\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/3581685&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/hH6aIiF_ETg\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/hH6aIiF_ETg\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -57,7 +57,7 @@ var saturday = [
         venue: "Pengilly's Saloon",
         time: "3:00pm–3:40pm",
         media: [
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/wNfMwL-uWmQ\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/wNfMwL-uWmQ\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -66,8 +66,8 @@ var saturday = [
         time: "3:00pm–3:40pm",
         media: [
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/74253992&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/YvsxrejMISM\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/j0zLy3Qtbs4\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/YvsxrejMISM\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/j0zLy3Qtbs4\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -85,7 +85,7 @@ var saturday = [
         time: "3:05pm–3:50pm",
         media: [
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F6954077&amp;auto_play=false&amp;show_artwork=false&amp;color=%20788b78\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/wolYS2EvtBE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/wolYS2EvtBE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -100,7 +100,7 @@ var saturday = [
         time: "4:00pm–4:40pm",
         media: [
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/134552543&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/4-ykYY0f_xE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/4-ykYY0f_xE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -116,8 +116,8 @@ var saturday = [
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/24841808&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"http://bandcamp.com/EmbeddedPlayer/album=3095783437/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=none/transparent=true/\" seamless><a href=\"http://nedgarthe.bandcamp.com/album/american-values\">American Values by Ned Garthe</a></iframe>",
-            "<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/LiwbgCz_hpg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/APFiHqqEGGI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/LiwbgCz_hpg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/APFiHqqEGGI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -144,9 +144,9 @@ var saturday = [
         time: "4:10pm–5:10pm",
         media: [
             "<iframe width=\"100%\" height=\"288\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/3825308&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/YwQilKbK9Mk\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/oJi_QT7URIo\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/aI8V1v3Ajg0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/YwQilKbK9Mk\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/oJi_QT7URIo\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/aI8V1v3Ajg0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -181,9 +181,9 @@ var saturday = [
         time: "5:00pm–5:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/6245916&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/X_yiLglLGUA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/9TQz7tJ2HgA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/jTwj_CbDFYw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/X_yiLglLGUA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/9TQz7tJ2HgA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/jTwj_CbDFYw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -209,8 +209,8 @@ var saturday = [
         media: [
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/87118070&amp;color=788b78&amp;auto_play=false&amp;hide_related=true&amp;show_artwork=false\"></iframe>",
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/75317694&amp;color=788b78&amp;auto_play=false&amp;hide_related=true&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/2nclSNIamjg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/lqyXgFaf1-4?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/2nclSNIamjg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/lqyXgFaf1-4?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -219,9 +219,9 @@ var saturday = [
         time: "6:00pm–6:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/25228153&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/3tQkUD3zAkU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/G109L5QCg0Y?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/m7nU_LL9Euw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/3tQkUD3zAkU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/G109L5QCg0Y?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/m7nU_LL9Euw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -229,7 +229,7 @@ var saturday = [
         venue: "Neurolux",
         time: "6:00pm–6:40pm",
         media: [
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Adwr8ASaSnY?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Adwr8ASaSnY?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -247,9 +247,9 @@ var saturday = [
         time: "6:00pm–6:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/17763559&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/5Z_v8aKe16o?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/IQvRymYflqs?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/vInhInS8zzQ?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/5Z_v8aKe16o?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/IQvRymYflqs?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/vInhInS8zzQ?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -259,7 +259,7 @@ var saturday = [
         media: [
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"http://bandcamp.com/EmbeddedPlayer/album=3257282012/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=none/transparent=true/\" seamless><a href=\"http://sadhorse.bandcamp.com/album/purple-on-purple-makes-purple\">Purple On Purple Makes Purple by Sad Horse</a></iframe>",
             "<iframe src=\"//player.vimeo.com/video/46583744?byline=0&amp;portrait=0&amp;color=ffffff\" width=\"100%\" height=\"200\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/S44895_ILyM?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/S44895_ILyM?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -275,8 +275,8 @@ var saturday = [
         venue: "El Korah Shrine",
         time: "6:00pm–6:45pm",
         media: [
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/X2vQggCvk6c?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/X3M70wJ4aAg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/X2vQggCvk6c?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/X3M70wJ4aAg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -293,9 +293,9 @@ var saturday = [
         time: "7:00pm–7:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/14196393&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/UefK9lQwH-8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/gHtdcBAfPmw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/GfOEYQlSCeo?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/UefK9lQwH-8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/gHtdcBAfPmw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/GfOEYQlSCeo?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -304,8 +304,8 @@ var saturday = [
         time: "7:00pm–7:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/4727980&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/utA1CZkE-nA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Wtvg-_VhVVI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/utA1CZkE-nA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Wtvg-_VhVVI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -315,7 +315,7 @@ var saturday = [
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/16503392&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true\"></iframe>",
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"http://bandcamp.com/EmbeddedPlayer/album=1257526236/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=none/t=10/transparent=true/\" seamless><a href=\"http://samcooper.bandcamp.com/album/long-lost-love\">Long Lost Love by Sam Cooper</a></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/R8lMM817oXo\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/R8lMM817oXo\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -324,9 +324,9 @@ var saturday = [
         time: "7:00pm–7:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/4491272&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/fRIC2F9VHkw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/uh4JT9oAd_w?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/CBem13arAEg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/fRIC2F9VHkw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/uh4JT9oAd_w?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/CBem13arAEg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -336,7 +336,7 @@ var saturday = [
         media: [
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/110468911&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true\"></iframe>",
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"http://bandcamp.com/EmbeddedPlayer/track=3966407927/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=none/transparent=true/\" seamless><a href=\"http://toyzoo.bandcamp.com/track/man-down\">Man Down by Toy Zoo</a></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/JMQS7F6y8tE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/JMQS7F6y8tE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -354,9 +354,9 @@ var saturday = [
         time: "7:00pm–8:00pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/3404819&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/8t2-rJo5bdw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/a4y1_jcWwZE\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/k4BufeIwzmE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/8t2-rJo5bdw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/a4y1_jcWwZE\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/k4BufeIwzmE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -365,9 +365,9 @@ var saturday = [
         time: "8:00pm–8:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/22356249&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/0SE94HWE3ks?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/5cahFMKorqM?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/WlUiwINM5lM?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/0SE94HWE3ks?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/5cahFMKorqM?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/WlUiwINM5lM?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -376,9 +376,9 @@ var saturday = [
         time: "8:00pm–8:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/11378359&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/ekm5rQvjwZc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/ozAsNkh4o4A?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/49p8n8vdlYI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/ekm5rQvjwZc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/ozAsNkh4o4A?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/49p8n8vdlYI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -387,9 +387,9 @@ var saturday = [
         time: "8:00pm–8:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/3426502&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/pm2LHtPuPQE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/HHgh0NjmUkI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/QpRwLsvzwcw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/pm2LHtPuPQE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/HHgh0NjmUkI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/QpRwLsvzwcw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -398,7 +398,7 @@ var saturday = [
         time: "8:00pm–8:40pm",
         media: [
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"http://bandcamp.com/EmbeddedPlayer/album=4162330099/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=none/transparent=true/\" seamless><a href=\"http://themagpies.bandcamp.com/album/pretty-big-time\">Pretty Big Time by Magpies</a></iframe>",
-            "<iframe width='100%\"' height=\"200\" src=\"//www.youtube.com/embed/0A_kef_B6qE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width='100%\"' height=\"200\" src=\"http://www.youtube.com/embed/0A_kef_B6qE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -408,7 +408,7 @@ var saturday = [
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/2258873&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
             "<iframe src=\"//player.vimeo.com/video/60873099?title=0&amp;byline=0&amp;portrait=0&amp;color=ff9933\" width=\"100%\" height=\"200\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Sc09I9jpBaw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Sc09I9jpBaw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -426,9 +426,9 @@ var saturday = [
         time: "8:00pm–8:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/11530038&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/n2rSmgVsino?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/1gGkZ7xbD3M?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/tv7foCZ7318?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/n2rSmgVsino?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/1gGkZ7xbD3M?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/tv7foCZ7318?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -445,7 +445,7 @@ var saturday = [
         time: "8:00pm–8:50pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/20409949&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/pXBtgZyrxOA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/pXBtgZyrxOA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -460,8 +460,8 @@ var saturday = [
         time: "8:30pm–10:00pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/6475929&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/_li_oIKDcgU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Lp-xN-o6W90?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/_li_oIKDcgU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Lp-xN-o6W90?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -482,8 +482,8 @@ var saturday = [
         time: "9:00pm–9:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/440125&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/5S9r8K3zDDQ?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/eGjKo536ne8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/5S9r8K3zDDQ?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/eGjKo536ne8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -492,8 +492,8 @@ var saturday = [
         time: "9:00pm–9:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/2893775&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/lgvlwEl_K1w?list=PL8DE652D1AD36BC6D\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/aXyVDK79Yv8?list=PL8DE652D1AD36BC6D\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/lgvlwEl_K1w?list=PL8DE652D1AD36BC6D\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/aXyVDK79Yv8?list=PL8DE652D1AD36BC6D\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -510,7 +510,7 @@ var saturday = [
         time: "9:00pm–9:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/2301131&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/FAIwOzxk_0E?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/FAIwOzxk_0E?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -525,7 +525,7 @@ var saturday = [
         time: "9:00pm–9:40pm",
         media: [
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"http://bandcamp.com/EmbeddedPlayer/track=2436053821/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"http://calico6.bandcamp.com/track/steens\">Steens by Calico the Band.</a></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/2VG5ifZbbKk?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/2VG5ifZbbKk?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -534,9 +534,9 @@ var saturday = [
         time: "9:00pm–9:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/9912536&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/ISGQQ-n7oEI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/VUtLhon00EU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/4OFLxNAqGLQ?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/ISGQQ-n7oEI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/VUtLhon00EU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/4OFLxNAqGLQ?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -551,8 +551,8 @@ var saturday = [
         time: "9:00pm–9:45pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/6562451&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Dm_N27v38_Y?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/T5eDopic8KE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Dm_N27v38_Y?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/T5eDopic8KE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -569,7 +569,7 @@ var saturday = [
         time: "9:30pm–10:10pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/27326987&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/thPzawlagyo?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/thPzawlagyo?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -602,7 +602,7 @@ var saturday = [
         time: "10:00pm–10:40pm",
         media: [
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F14966329&amp;auto_play=false&amp;show_artwork=false&amp;color=788b78\"></iframe>",
-            "<iframe width=\"287\" height=\"215\" src=\"http://www.youtube.com/embed/b6aVF3FTjEw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"287\" height=\"215\" src=\"http:http://www.youtube.com/embed/b6aVF3FTjEw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -611,8 +611,8 @@ var saturday = [
         time: "10:00pm–10:40pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/9616889&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/W8y2J3tyLxs?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Wwqef8ICrrg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/W8y2J3tyLxs?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Wwqef8ICrrg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -620,7 +620,7 @@ var saturday = [
         venue: "Pengilly's Saloon",
         time: "10:00pm–10:40pm",
         media: [
-            "<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/r7G_8Nv57gc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/r7G_8Nv57gc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -631,7 +631,7 @@ var saturday = [
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"http://bandcamp.com/EmbeddedPlayer/album=2479311550/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=none/transparent=true/\" seamless><a href=\"http://thebluerider.bandcamp.com/album/the-blue-rider-ep\">The Blue Rider EP by The Blue Rider</a></iframe>",
             "<iframe src=\"//player.vimeo.com/video/71645426?title=0&amp;byline=0&amp;portrait=0&amp;color=ff9933\" width=\"100%\" height=\"200\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
             "<iframe src=\"//player.vimeo.com/video/76672589?title=0&amp;byline=0&amp;portrait=0&amp;color=ff9933\" width=\"100%\" height=\"200\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Tudcb2RMUgs?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Tudcb2RMUgs?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -640,9 +640,9 @@ var saturday = [
         time: "10:00pm–10:40pm",
         media: [
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"http://bandcamp.com/EmbeddedPlayer/album=2570426084/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=none/transparent=true/\" seamless><a href=\"http://thoseboys.bandcamp.com/album/metallic-uh-rubber-brother-records-comp\">\"Metallic uh\" Rubber Brother Records Comp by BOYS</a></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/hRiLIa0Ygg0?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/byKE1IcZ1HI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/b2NOrEtSHi4?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/hRiLIa0Ygg0?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/byKE1IcZ1HI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/b2NOrEtSHi4?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -651,9 +651,9 @@ var saturday = [
         time: "10:00pm–10:40pm",
         media: [
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/79544483&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/7ku1iPee408\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/9XK4VUJ9EVg\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/zQa0rfF1s_E\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/7ku1iPee408\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/9XK4VUJ9EVg\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/zQa0rfF1s_E\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -683,8 +683,8 @@ var saturday = [
         venue: "The District",
         time: "10:00pm–10:50pm",
         media: [
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Wm5pKJI2UGM?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/sh0V7dkWK8U?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Wm5pKJI2UGM?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/sh0V7dkWK8U?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -693,8 +693,8 @@ var saturday = [
         time: "10:00pm–11:30pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F6264594&amp;auto_play=false&amp;show_artwork=false&amp;color=788b78\"></iframe>",
-            "<iframe width=\"286\" height=\"161\" src=\"http://www.youtube.com/embed/Nc6rEO6B5s8\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"286\" height=\"161\" src=\"http://www.youtube.com/embed/IYf3tAtktD8\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"286\" height=\"161\" src=\"http:http://www.youtube.com/embed/Nc6rEO6B5s8\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"286\" height=\"161\" src=\"http:http://www.youtube.com/embed/IYf3tAtktD8\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -703,8 +703,8 @@ var saturday = [
         time: "10:30pm–11:10pm",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/8045886&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/_LfwP-KQmhw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/2rXFjHuymBU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/_LfwP-KQmhw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/2rXFjHuymBU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -712,8 +712,8 @@ var saturday = [
         venue: "The Shredder",
         time: "10:30pm–11:15pm",
         media: [
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/U7M4rVP2EOA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/PvHmtlfMXfQ?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/U7M4rVP2EOA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/PvHmtlfMXfQ?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -744,8 +744,8 @@ var saturday = [
         time: "11:00pm–11:40pm",
         media: [
             "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/18624041&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/nkKmeC1m3Lw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/z94AOecy5xU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/nkKmeC1m3Lw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/z94AOecy5xU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -780,8 +780,8 @@ var saturday = [
         time: "11:00pm–11:50pm",
         media: [
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/125175273&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/UxZpEAenyK4\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/gUo4RZP9CrQ\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/UxZpEAenyK4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/gUo4RZP9CrQ\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -790,8 +790,8 @@ var saturday = [
         time: "11:00pm–12:00am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/7561566&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/bJ-zfWRiaE8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/4q7Bm-8aIQ8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/bJ-zfWRiaE8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/4q7Bm-8aIQ8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -800,8 +800,8 @@ var saturday = [
         time: "11:00pm–12:00am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/4129&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/g3J4VxWIM6s?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/WKWiW8SrUqE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/g3J4VxWIM6s?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/WKWiW8SrUqE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -810,9 +810,9 @@ var saturday = [
         time: "11:00pm–12:00am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/827218&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/K8WnbiBSV1A?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/xY_TTXBtj_Q?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Qv8_CZ-OSD8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/K8WnbiBSV1A?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/xY_TTXBtj_Q?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Qv8_CZ-OSD8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -821,9 +821,9 @@ var saturday = [
         time: "11:10pm–12:00am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/8233171&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Gu5aOQYZ9KA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/BMQdHUIx3Sg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Mq0BCrBtEcc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Gu5aOQYZ9KA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/BMQdHUIx3Sg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Mq0BCrBtEcc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -832,9 +832,9 @@ var saturday = [
         time: "11:30pm–12:10am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/7528869&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/_HECw2ESJuY?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Yw2UoJ1z8SM?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/I856cG4ezmk?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/_HECw2ESJuY?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Yw2UoJ1z8SM?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/I856cG4ezmk?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -849,7 +849,7 @@ var saturday = [
         time: "11:30pm–12:15am",
         media: [
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/132406667&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/LaAw6sAmSvA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/LaAw6sAmSvA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -875,7 +875,7 @@ var saturday = [
         time: "12:00am–12:40am",
         media: [
             "<iframe width=\"100%\" height=\"333\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/66199230&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/Tx9Ml7EFMQA\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/Tx9Ml7EFMQA\" frameborder=\"0\" allowfullscreen></iframe>",
             "<iframe src=\"//player.vimeo.com/video/30493613?title=0&amp;byline=0&amp;portrait=0\" width=\"100%\" height=\"200\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
         ]
     },
@@ -885,7 +885,7 @@ var saturday = [
         time: "12:00am–12:40am",
         media: [
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"http://bandcamp.com/EmbeddedPlayer/album=1830977441/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=none/transparent=true/\" seamless><a href=\"http://messysparkles.bandcamp.com/album/savannah-2\">Savannah by Messy Sparkles</a></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/6OD2n4tanNA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/6OD2n4tanNA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -894,8 +894,8 @@ var saturday = [
         time: "12:00am–12:50am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/101553&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/d1YyOkjmXuk?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/AmwKpXxy5vc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/d1YyOkjmXuk?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/AmwKpXxy5vc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -904,8 +904,8 @@ var saturday = [
         time: "12:00am–1:00am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/24018054&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/1nBqBdy3sB8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/HXA_N1dr7Xw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/1nBqBdy3sB8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/HXA_N1dr7Xw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -913,8 +913,8 @@ var saturday = [
         venue: "Tom Grainey's (upstairs)",
         time: "12:00am–1:30am",
         media: [
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/XQRhQQMcRvA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/526LmZpMKMI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/XQRhQQMcRvA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/526LmZpMKMI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -923,9 +923,9 @@ var saturday = [
         time: "12:00am–2:00am",
         media: [
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/84600906&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/J1___NNhkH0?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/3AIn7Sejpdo?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/_28cGpYY0Aw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/J1___NNhkH0?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/3AIn7Sejpdo?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/_28cGpYY0Aw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -934,9 +934,9 @@ var saturday = [
         time: "12:10am–1:30am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/9642362&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/UNirLSOiYI8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/N7TTWocFcJg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/L5cGp2iXywc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/UNirLSOiYI8?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/N7TTWocFcJg?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/L5cGp2iXywc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -945,8 +945,8 @@ var saturday = [
         time: "12:15am–1:15am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/255948&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/BXFdNYFPegA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/9Q9WX8Wdfw4?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/BXFdNYFPegA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/9Q9WX8Wdfw4?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -955,9 +955,9 @@ var saturday = [
         time: "12:20am–2:00am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/7186498&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/AexJY2BBPbc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/YvSL44Siyqk?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/U-YupSkm6m0?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/AexJY2BBPbc?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/YvSL44Siyqk?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/U-YupSkm6m0?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -991,7 +991,7 @@ var saturday = [
         media: [
             "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/80221915&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true\"></iframe>",
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"http://bandcamp.com/EmbeddedPlayer/album=668507890/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=none/transparent=true/\" seamless><a href=\"http://profoundlorerecords.bandcamp.com/album/vhol\">Vhol by VHOL</a></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/QENyul1-S6I?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/QENyul1-S6I?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -1009,8 +1009,8 @@ var saturday = [
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/2370317&amp;color=788b78&amp;auto_play=false&amp;hide_related=true&amp;show_artwork=false\"></iframe>",
             "<iframe style=\"border: 0; width: 100%; height: 142px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=457466174/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=none/transparent=true/\" seamless><a href=\"http://themagicbeans.bandcamp.com/album/the-magic-beans\">The Magic Beans by The Magic Beans</a></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/NESUOJetx58?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/sEPiXuJrCvw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/NESUOJetx58?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/sEPiXuJrCvw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -1019,7 +1019,7 @@ var saturday = [
         time: "1:00am–2:00am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/1677117&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/vPR-SAHZpRo?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/vPR-SAHZpRo?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -1028,10 +1028,10 @@ var saturday = [
         time: "1:00am–2:00am",
         media: [
             "<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/30967131&amp;color=788b78&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true\"></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/A7QOo73AzjA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/A7QOo73AzjA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
             "<iframe width=\"100%\" height=\"200\" src=\"http://video.cpt12.org/viralplayer/2365019049\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" seamless></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/BJ-s-iBSbss?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"100%\" height=\"200\" src=\"//www.youtube.com/embed/S0-gsGpLaNI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/BJ-s-iBSbss?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"100%\" height=\"200\" src=\"http://www.youtube.com/embed/S0-gsGpLaNI?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -1040,8 +1040,8 @@ var saturday = [
         time: "1:00am–2:00am",
         media: [
             "<iframe width=\"100%\" height=\"322\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/8299352&amp;color=788b78&amp;auto_play=false&amp;show_artwork=false\"></iframe>",
-            "<iframe width=\"286\" height=\"161\" src=\"http://www.youtube.com/embed/8VOA_4yK080?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
-            "<iframe width=\"286\" height=\"161\" src=\"http://www.youtube.com/embed/RF7WV03L7hY?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+            "<iframe width=\"286\" height=\"161\" src=\"http:http://www.youtube.com/embed/8VOA_4yK080?rel=0\" frameborder=\"0\" allowfullscreen></iframe>",
+            "<iframe width=\"286\" height=\"161\" src=\"http:http://www.youtube.com/embed/RF7WV03L7hY?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
         ]
     },
     {
@@ -1058,4 +1058,11 @@ var saturday = [
         time: "1:30am–2:30am",
         media: []
     }
-]
+];
+
+$(document).ready(function(){
+    var showTemplate = _.template($("#show-template").html());
+    var resultingHtml = showTemplate({shows : wednesday});
+
+    $(".show-list").html(resultingHtml);
+});
