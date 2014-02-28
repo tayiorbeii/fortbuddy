@@ -1,0 +1,28 @@
+<html>
+	<head>
+	</head>
+		<body>
+			<div class="page">
+				<h1>Show List</h1>
+				<div class="show-list">
+					
+				</div><!-- end show-list -->
+			</div><!-- end page -->
+			<script type="text/template" id="show-template">
+			<% _.each(shows, function(show) { %>
+					<div class="show">
+						<span class="time"><%= show.time %></span>
+						<span class="artist"><%= show.artist %></span>
+						<span class="venue"><%= show.venue %></span>
+						<span class="media"><%= show.media %></span>
+
+					</div>
+			<% }); %>
+			</script>
+
+			<script src="js/jquery.js"></script>
+			<script src="js/underscore.js"></script>
+			<script src="js/wednesday.js"></script>
+
+		</body>
+</html>
