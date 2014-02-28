@@ -50,12 +50,19 @@ link_rows.each do |row|
 	end
 end
 
-json_array = shows.map{|s| Oj.dump(s)}.to_json
-puts json_array
+# json_array = shows.map{|s| Oj.dump(s)}.to_json
+json_array = shows.map{|s| Oj.dump(s, mode: :compat)}
+
+json_array = json_array.map{ |s| JSON[s]}.to_json
 
 open('wednesday.json', 'a') do |file|
-	file << json_array
+	file << Oj.dump(JSON[json_array])
 end
+
+
+# open('wednesday.json', 'a') do |file|
+# 	file << json_array
+# end
 
 # open('wednesday.json', 'a') do |file|
 # 	shows.each do |show|
