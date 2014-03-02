@@ -63,12 +63,12 @@ $(document).ready(function(){
 
     $(".show-list").html(resultingHtml);
     $('.show').on('click', 'button.toggle', function(ev) {
-        ev.preventDefault()
+        ev.preventDefault();
         
-        var $this = $(this)
+        var $this = $(this);
         
-        $this.text($this.text() === 'Show Media' ? 'Hide Media' : 'Show Media')
-        $this.parents('.show').find('.media').toggle()
-    })
+        $this.text($this.text() === 'Show Media' ? 'Hide Media' : 'Show Media');
+        $this.parents('.show').find('.media').toggle();
+    });
 
 });
