@@ -1,4 +1,3 @@
-
 var wednesday = [
     {
         artist: "Splinter ",
@@ -70,5 +69,8 @@ $(document).ready(function(){
         $this.text($this.text() === 'Show Media' ? 'Hide Media' : 'Show Media');
         $this.parents('.show').find('.song').toggle();
     });
+
+    $(".row:even").css("background-color","lightgray"); 
+
 
 });

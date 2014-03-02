@@ -11,17 +11,25 @@
 				</div><!-- end show-list -->
 			</div><!-- end page -->
 			<script type="text/template" id="show-template">
-			<% _.each(shows, function(show) { %>
-					<div class="show">
-						<span class="time"><%= show.time %></span>
-						<span class="artist"><%= show.artist %></span>
-						<span class="venue"><%= show.venue %></span>
+			<div class="container" id="main">
+                <% _.each(shows, function(show) { %>
+					<div class="row">
+                    <div class="show">
+                        <div class="col-sm-2"><span class="time"><%= show.time %></span></div><!-- end time col -->
+						<div class="col-sm-8">
+                            <span class="artist"><%= show.artist %></span>
+                           <span class="venue"><%= show.venue %></span>
+                                </div><!-- end main col -->
+                        <div class="col-sm-2">        
                         <% if ((show.media) != "") { %>
-                            <button class="toggle">Show Media</button>
+                            <button class="toggle"><span class="glyphicon glyphicon-music"></button>
                         <% } %>
                             <span class="song"><%= show.media %></span>
-					</div>
+                            </div><!-- end media button col -->
+					</div><!-- end show -->
+                            </div><!-- end row -->
 			<% }); %>
+                            </div><!-- end container -->
 			</script>
 
 			<script src="js/jquery.js"></script>
