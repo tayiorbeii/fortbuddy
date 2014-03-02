@@ -14,15 +14,13 @@
 						<span class="time"><%= show.time %></span>
 						<span class="artist"><%= show.artist %></span>
 						<span class="venue"><%= show.venue %></span>
-						<span class="media"><%= show.media %></span>
-
+                        <% if ((show.media) != "") { %>
+                            <button class="toggle">Show Media</button>
+                        <% } %>
+                            <span class="media"><%= show.media %></span>
 					</div>
 			<% }); %>
 			</script>
-
-			<script src="js/jquery.js"></script>
-			<script src="js/underscore.js"></script>
-			<script src="js/wednesday.js"></script>
 
 		</body>
 </html>

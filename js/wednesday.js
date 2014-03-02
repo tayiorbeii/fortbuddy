@@ -1,3 +1,4 @@
+
 var wednesday = [
     {
         artist: "Splinter ",
@@ -61,4 +62,13 @@ $(document).ready(function(){
     var resultingHtml = showTemplate({shows : wednesday});
 
     $(".show-list").html(resultingHtml);
+    $('.show').on('click', 'button.toggle', function(ev) {
+        ev.preventDefault()
+        
+        var $this = $(this)
+        
+        $this.text($this.text() === 'Show Media' ? 'Hide Media' : 'Show Media')
+        $this.parents('.show').find('.media').toggle()
+    })
+
 });
