@@ -68,7 +68,7 @@ $(document).ready(function(){
         var $this = $(this);
         
         $this.text($this.text() === 'Show Media' ? 'Hide Media' : 'Show Media');
-        $this.parents('.show').find('.media').toggle();
+        $this.parents('.show').find('.song').toggle();
     });
 
 });

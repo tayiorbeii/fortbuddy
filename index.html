@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="css/overrides.css">
+		<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 	</head>
 		<body>
 			<div class="page">
@@ -18,7 +19,7 @@
                         <% if ((show.media) != "") { %>
                             <button class="toggle">Show Media</button>
                         <% } %>
-                            <span class="media"><%= show.media %></span>
+                            <span class="song"><%= show.media %></span>
 					</div>
 			<% }); %>
 			</script>
