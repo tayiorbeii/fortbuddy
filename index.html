@@ -5,36 +5,42 @@
 	</head>
 		<body>
 			<div class="page">
-				<h1>Show List</h1>
+			<script>
+    $(function() {
+        $('#search_input').fastLiveFilter('#search_list');
+    });
+</script>
+
+				
 				<div class="show-list">
 					
 				</div><!-- end show-list -->
 			</div><!-- end page -->
 			<script type="text/template" id="show-template">
-			<div class="container" id="main">
+			<input id="searchInput" placeholder="Type to filter">
+
+              <table class="rwd-table" id="schedule">
+              	<tr>
+              		<th class="date">Date</th>
+              		<th class="time">Time</th>
+              		<th class="artist">Artist</th>
+              		<th class="venue">Venue</th>
+              	</tr>
                 <% _.each(shows, function(show) { %>
-					<div class="row">
-                    <div class="show">
-                        <div class="col-sm-2"><span class="time"><%= show.time %></span></div><!-- end time col -->
-						<div class="col-sm-8">
-                            <span class="artist"><%= show.artist %></span>
-                           <span class="venue"><%= show.venue %></span>
-                                </div><!-- end main col -->
-                        <div class="col-sm-2">        
-                        <% if ((show.media) != "") { %>
-                            <button class="toggle"><span class="glyphicon glyphicon-music"></button>
-                        <% } %>
-                            <span class="song"><%= show.media %></span>
-                            </div><!-- end media button col -->
-					</div><!-- end show -->
-                            </div><!-- end row -->
+					<tr>                       
+                        <td data-th="Date"><span class="time"><%= show.date %></span></td>
+                        <td data-th="Time"><span class="time"><%= show.time %></span></td>
+                        <td data-th="Artist"><span class="artist"><%= show.artist %></span></td>
+                        <td data-th="Venue"><span class="venue"><%= show.venue %></span></td>
+                    </tr>
 			<% }); %>
-                            </div><!-- end container -->
+                </table>
 			</script>
 
 			<script src="js/jquery.js"></script>
+			<script src="http://listjs.com/no-cdn/list.js"></script>
  			<script src="js/underscore.js"></script>
- 			<script src="js/wednesday.js"></script>
+ 			<script src="js/showlist.js"></script>
 
 		</body>
 </html>
