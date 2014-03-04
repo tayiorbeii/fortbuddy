@@ -5,11 +5,8 @@
 	</head>
 		<body>
 			<div class="page">
-			<script>
-    $(function() {
-        $('#search_input').fastLiveFilter('#search_list');
-    });
-</script>
+<script>this.container.html(this.ledgerTemplate());
+    $('table').dataTable();</script>
 
 				
 				<div class="show-list">
@@ -17,28 +14,42 @@
 				</div><!-- end show-list -->
 			</div><!-- end page -->
 			<script type="text/template" id="show-template">
-			<input id="searchInput" placeholder="Type to filter">
 
+			<div class="dataTables_wrapper">
               <table class="rwd-table" id="schedule">
+
+              	<thead>
+              	              	<tr>
+              <th><input type="text" name="search_date" placeholder="Filter by Date" class="search_init" /></th>
+              <th><input type="text" name="search_time" placeholder="Filter by Time" class="search_init" /></th>
+              <th><input type="text" name="search_artist" placeholder="Filter by Artist" class="search_init" /></th>
+              <th><input type="text" name="search_venue" placeholder="Filter by Venue" class="search_init" /></th>
+              </tr>
               	<tr>
               		<th class="date">Date</th>
               		<th class="time">Time</th>
               		<th class="artist">Artist</th>
               		<th class="venue">Venue</th>
               	</tr>
+              	
+              	</thead>
+              	<tbody>
                 <% _.each(shows, function(show) { %>
-					<tr>                       
+					<tr class="showlist">                       
                         <td data-th="Date"><span class="time"><%= show.date %></span></td>
                         <td data-th="Time"><span class="time"><%= show.time %></span></td>
                         <td data-th="Artist"><span class="artist"><%= show.artist %></span></td>
                         <td data-th="Venue"><span class="venue"><%= show.venue %></span></td>
                     </tr>
 			<% }); %>
+                </tbody>
                 </table>
+                </div>
+                
 			</script>
 
 			<script src="js/jquery.js"></script>
-			<script src="http://listjs.com/no-cdn/list.js"></script>
+			<script src="https://datatables.net/download/build/jquery.dataTables.min.js"></script>
  			<script src="js/underscore.js"></script>
  			<script src="js/showlist.js"></script>
 
